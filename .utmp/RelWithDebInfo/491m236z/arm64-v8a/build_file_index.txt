@@ -1,2 +1,0 @@
-E:\Work\Unity Projects\3D_PacMan\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
-E:\Work\Unity Projects\3D_PacMan\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
